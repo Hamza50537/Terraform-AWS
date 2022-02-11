@@ -1,0 +1,5 @@
+terraform init: It will dowload the all providers and initize the terraform in current working directory
+terraform validate: It will validate the syntax of all terraform files in current working directory
+terraform plan: It will generate an execution plan to execute all of the steps in terraform
+terraform apply: It will apply the plan. It will maintain a state file.
+terraform delete: terraform delete (It will delete the infrastructure, will remove update the terraform state file and generate a backup file of the deleted infrastructure)

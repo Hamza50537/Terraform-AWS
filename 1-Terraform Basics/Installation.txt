@@ -1,0 +1,10 @@
+Terraform Windows:
+1-Download the latest version from the terraform official website.
+3-Place the dowloaded file somewhere in c drive i Placed it uder c:\terraform-bin
+4-Now go to windows environment variables settings and create a new environment variables and add the terraform
+directory path in my case it's c:\terraform-bin.
+
+AWS cli:
+1-Download the latest version from the aws official website.
+2-Install the exe file.
+
